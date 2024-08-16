@@ -2,3 +2,5 @@
 ## Will read each line, and split it into 2. One will be the file path for the file that needs updating, the other will be the SHA1 checksum hash for the new file.
 ## If the new file checksum matches the current files checksum then no update is needed for that file.
 ## Path will have a @ sign at the start. That means "Game Directory".
+
+@\testfile.txt e21ba2cf0362ce6da568482a54514c8c1c48a887
