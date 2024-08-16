@@ -3,4 +3,4 @@
 ## If the new file checksum matches the current files checksum then no update is needed for that file.
 ## Path will have a @ sign at the start. That means "Game Directory".
 
-@\Misc\testfile.txt e21ba2cf0362ce6da568482a54514c8c1c48a887
+@\Misc\testfile.txt a486c800bec59a01142fea748c773ce133ee9d9f
